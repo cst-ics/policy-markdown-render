@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { FileText, Code, Beaker } from "lucide-react";
+
 import { Button } from "@/components/ui/button";
 const Lab = () => {
   return <div className="min-h-screen bg-background">

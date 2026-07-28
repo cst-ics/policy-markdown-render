@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
-import { Mail, MessageSquare, Github } from "lucide-react";
+import { Mail, Github } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { useState } from "react";
 
@@ -178,21 +178,6 @@ const Contact = () => {
               </div>
             </a>
 
-            <div className="flex items-center gap-4 p-6 border border-border rounded-lg">
-              <MessageSquare className="h-8 w-8 text-accent" />
-              <div>
-                <h3 className="text-xl font-bold">Telegram / Matrix</h3>
-                <p className="text-muted-foreground">Coming soon</p>
-              </div>
-            </div>
-
-            <div className="flex items-center gap-4 p-6 border border-border rounded-lg">
-              <MessageSquare className="h-8 w-8 text-accent" />
-              <div>
-                <h3 className="text-xl font-bold">LinkedIn</h3>
-                <p className="text-muted-foreground">Coming soon</p>
-              </div>
-            </div>
           </div>
         </div>
       </section>

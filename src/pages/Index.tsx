@@ -60,7 +60,7 @@ const Index = () => {
                   AI & Misinformation
                 </h3>
                 <p className="text-muted-foreground">
-                  Exploring the ethical implications of AI-generated media and developing frameworks for responsible AI.
+                  Studying the impact and detection of AI-generated content and developing ethical frameworks.
                 </p>
               </div>
             </Link>
@@ -70,20 +70,63 @@ const Index = () => {
                   CST
                 </div>
                 <h3 className="text-2xl font-bold mb-3 group-hover:text-accent transition-colors">
-                  Cybersecurity Operations
+                  Cybersecurity & Digital Defense
                 </h3>
                 <p className="text-muted-foreground">
-                  Red and Blue team operations protecting digital infrastructure with ethical principles.
+                  Red and Blue team operations focused on protecting critical infrastructure.
                 </p>
               </div>
             </Link>
             <Link to="/lab" className="group">
               <div className="bg-card border border-border rounded-lg p-8 hover:border-accent transition-all duration-300 h-full">
                 <div className="inline-block px-3 py-1 bg-accent/20 text-accent text-sm font-medium rounded-full mb-4">
-                  Innovation
+                  Ethics
                 </div>
-                <h3 className="text-2xl font-bold mb-3 group-hover:text-accent transition-colors">Aorta | Realtime Blood Bank</h3>
-                <p className="text-muted-foreground">Developing a realtime blood bank to fix blood smuggling issue in Bangladesh.</p>
+                <h3 className="text-2xl font-bold mb-3 group-hover:text-accent transition-colors">
+                  Faith & Technology Ethics
+                </h3>
+                <p className="text-muted-foreground">
+                  Exploring the intersection of Islamic values and modern technology development.
+                </p>
+              </div>
+            </Link>
+            <Link to="/lab" className="group">
+              <div className="bg-card border border-border rounded-lg p-8 hover:border-accent transition-all duration-300 h-full">
+                <div className="inline-block px-3 py-1 bg-accent/20 text-accent text-sm font-medium rounded-full mb-4">
+                  Infrastructure
+                </div>
+                <h3 className="text-2xl font-bold mb-3 group-hover:text-accent transition-colors">
+                  Secure Infrastructure Design
+                </h3>
+                <p className="text-muted-foreground">
+                  Building privacy-first, secure systems for sensitive applications.
+                </p>
+              </div>
+            </Link>
+            <Link to="/lab" className="group">
+              <div className="bg-card border border-border rounded-lg p-8 hover:border-accent transition-all duration-300 h-full">
+                <div className="inline-block px-3 py-1 bg-accent/20 text-accent text-sm font-medium rounded-full mb-4">
+                  Private AI
+                </div>
+                <h3 className="text-2xl font-bold mb-3 group-hover:text-accent transition-colors">
+                  Secure and Private AI
+                </h3>
+                <p className="text-muted-foreground">
+                  Developing AI systems that protect user data, preserve confidentiality, and resist misuse.
+                </p>
+              </div>
+            </Link>
+            <Link to="/lab" className="group">
+              <div className="bg-card border border-border rounded-lg p-8 hover:border-accent transition-all duration-300 h-full">
+                <div className="inline-block px-3 py-1 bg-accent/20 text-accent text-sm font-medium rounded-full mb-4">
+                  Resilience
+                </div>
+                <h3 className="text-2xl font-bold mb-3 group-hover:text-accent transition-colors">
+                  Anti-Censorship Technology
+                </h3>
+                <p className="text-muted-foreground">
+                  Building resilient tools and protocols to ensure free access to information and communication.
+                </p>
               </div>
             </Link>
           </div>

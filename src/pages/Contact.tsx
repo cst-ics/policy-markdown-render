@@ -155,13 +155,13 @@ const Contact = () => {
           <h2 className="text-3xl font-bold text-center mb-12">Other Ways to Connect</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <a
-              href="mailto:admin@mail.teamsabily.online"
+              href="mailto:sabily_os@proton.me"
               className="flex items-center gap-4 p-6 border border-border rounded-lg hover:border-accent transition-all group"
             >
               <Mail className="h-8 w-8 text-accent" />
               <div>
                 <h3 className="text-xl font-bold group-hover:text-accent transition-colors">Email</h3>
-                <p className="text-muted-foreground">admin@mail.teamsabily.online</p>
+                <p className="text-muted-foreground">sabily_os@proton.me</p>
               </div>
             </a>
 

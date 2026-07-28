@@ -70,6 +70,18 @@ const Lab = () => {
                 Building privacy-first, secure systems for sensitive applications.
               </p>
             </div>
+            <div className="border border-border rounded-lg p-6 hover:border-accent transition-all">
+              <h3 className="text-2xl font-bold mb-3">Secure and Private AI</h3>
+              <p className="text-muted-foreground">
+                Developing AI systems that protect user data, preserve confidentiality, and resist misuse.
+              </p>
+            </div>
+            <div className="border border-border rounded-lg p-6 hover:border-accent transition-all">
+              <h3 className="text-2xl font-bold mb-3">Anti-Censorship Technology</h3>
+              <p className="text-muted-foreground">
+                Building resilient tools and protocols to ensure free access to information and communication.
+              </p>
+            </div>
           </div>
         </div>
       </section>

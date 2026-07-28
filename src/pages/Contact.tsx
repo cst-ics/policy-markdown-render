@@ -160,7 +160,7 @@ const Contact = () => {
             >
               <Mail className="h-8 w-8 text-accent" />
               <div>
-                <h3 className="text-xl font-bold group-hover:text-accent transition-colors">Secure Email</h3>
+                <h3 className="text-xl font-bold group-hover:text-accent transition-colors">Email</h3>
                 <p className="text-muted-foreground">admin@mail.teamsabily.online</p>
               </div>
             </a>
